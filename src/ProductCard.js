@@ -3,7 +3,6 @@ import Card from 'react-bootstrap/Card';
 import Products from './pacelabace.json';
 import Container from 'react-bootstrap/Container';
 import './ProductCard.css';
-import firebase from 'firebase';
 
 export default function ProductCard(product) {
     
