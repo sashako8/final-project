@@ -1,0 +1,29 @@
+.container {
+    padding-top: 7%;
+    display: grid;
+    grid-template-columns: auto auto auto auto;
+    grid-gap: 80px 100px;
+}
+
+.card {
+    transition: transform .2s; /* Animation */
+    box-shadow: 5px 10px 10px  #aca4a4;
+    padding-left: 20px;
+    padding-right: 20px;
+  }
+  
+  .card:hover {
+    transform: scale(1.1); 
+  }
+
+.stretched-link::after {
+    position: absolute;
+    top: 0;
+    right: 0;
+    bottom: 0;
+    left: 0;
+    z-index: 1;
+    pointer-events: auto;
+    content: "";
+    background-color: rgba(0,0,0,0);
+}

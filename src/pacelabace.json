@@ -2,41 +2,49 @@
     {
         "name": "myOffer",
         "description": "Create and manage all the library application data for myPlane and myFleet",
-        "image": "http://www.rickmartinexteriors.com.au/images/200x150.gif"
+        "image": "https://media-exp1.licdn.com/dms/image/C560BAQHB1arcDkf8Mw/company-logo_200_200/0?e=1600300800&v=beta&t=N5YWyUPkbqjaDpzx8NlB6u8z4roChkivmO8IU1Oyy3o",
+        "link": "https://www.txtgroup.com/about-us/offices-subsidiaries/pace-gmbh/"
     },
     {
         "name": "myPlane",
         "description": "Create and manage all the library application data for myPlane and myFleet",
-        "image": "http://www.rickmartinexteriors.com.au/images/200x150.gif"
+        "image": "https://media-exp1.licdn.com/dms/image/C560BAQHB1arcDkf8Mw/company-logo_200_200/0?e=1600300800&v=beta&t=N5YWyUPkbqjaDpzx8NlB6u8z4roChkivmO8IU1Oyy3o",
+        "link": "https://www.txtgroup.com/about-us/offices-subsidiaries/pace-gmbh/"
     },
     {
         "name": "myLayout",
         "description": "Create and manage all the library application data for myPlane and myFleet",
-        "image": "http://www.rickmartinexteriors.com.au/images/200x150.gif"      
+        "image": "https://media-exp1.licdn.com/dms/image/C560BAQHB1arcDkf8Mw/company-logo_200_200/0?e=1600300800&v=beta&t=N5YWyUPkbqjaDpzx8NlB6u8z4roChkivmO8IU1Oyy3o",
+        "link": "https://www.txtgroup.com/about-us/offices-subsidiaries/pace-gmbh/"      
     },
     {
         "name": "myFleet",
         "description": "Create and manage all the library application data for myPlane and myFleet",
-        "image": "http://www.rickmartinexteriors.com.au/images/200x150.gif"      
+        "image": "https://media-exp1.licdn.com/dms/image/C560BAQHB1arcDkf8Mw/company-logo_200_200/0?e=1600300800&v=beta&t=N5YWyUPkbqjaDpzx8NlB6u8z4roChkivmO8IU1Oyy3o",      
+        "link": "https://www.txtgroup.com/about-us/offices-subsidiaries/pace-gmbh/"
     },
     {
         "name": "myCabin",
         "description": "Create and manage all the library application data for myPlane and myFleet",
-        "image": "http://www.rickmartinexteriors.com.au/images/200x150.gif"      
+        "image": "https://media-exp1.licdn.com/dms/image/C560BAQHB1arcDkf8Mw/company-logo_200_200/0?e=1600300800&v=beta&t=N5YWyUPkbqjaDpzx8NlB6u8z4roChkivmO8IU1Oyy3o",
+        "link": "https://www.txtgroup.com/about-us/offices-subsidiaries/pace-gmbh/"      
     },
     {
         "name": "myEquipment",
         "description": "Create and manage all the library application data for myPlane and myFleet",
-        "image": "http://www.rickmartinexteriors.com.au/images/200x150.gif"      
+        "image": "https://media-exp1.licdn.com/dms/image/C560BAQHB1arcDkf8Mw/company-logo_200_200/0?e=1600300800&v=beta&t=N5YWyUPkbqjaDpzx8NlB6u8z4roChkivmO8IU1Oyy3o",
+        "link": "https://www.txtgroup.com/about-us/offices-subsidiaries/pace-gmbh/"      
     },
     {
         "name": "myViewer",
         "description": "Create and manage all the library application data for myPlane and myFleet",
-        "image": "http://www.rickmartinexteriors.com.au/images/200x150.gif"      
+        "image": "https://media-exp1.licdn.com/dms/image/C560BAQHB1arcDkf8Mw/company-logo_200_200/0?e=1600300800&v=beta&t=N5YWyUPkbqjaDpzx8NlB6u8z4roChkivmO8IU1Oyy3o",
+        "link": "https://www.txtgroup.com/about-us/offices-subsidiaries/pace-gmbh/"      
     },
     {
         "name": "myUsers",
         "description": "Create and manage all the library application data for myPlane and myFleet",
-        "image": "http://www.rickmartinexteriors.com.au/images/200x150.gif"      
+        "image": "https://media-exp1.licdn.com/dms/image/C560BAQHB1arcDkf8Mw/company-logo_200_200/0?e=1600300800&v=beta&t=N5YWyUPkbqjaDpzx8NlB6u8z4roChkivmO8IU1Oyy3o",
+        "link": "https://www.txtgroup.com/about-us/offices-subsidiaries/pace-gmbh/"      
     }
 ]
